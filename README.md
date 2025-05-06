@@ -17,12 +17,14 @@ A Contact Manager is a Java console application for storing and managing contact
 ## 📌 How It Works
 
 Each contact is stored in the file with the following line-by-line structure:
+```
 @FirstName
 !LastName
 #Email
 %PhoneNumber
 $Category
 --- (line seperator)
+```
 
 The system uses character tags (`@`, `!`, `#`, `%`, `$`) to identify each field.
 
