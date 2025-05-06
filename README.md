@@ -28,9 +28,6 @@ The system uses character tags (`@`, `!`, `#`, `%`, `$`) to identify each field.
 
 ---
 
-
----
-
 ## 🔧 Technologies
 
 - Java  
